@@ -40,6 +40,8 @@
 - `작업 저장(String filename)`: 작업 목록 파일 저장
 - `작업 불러오기(String filename)`: 작업 목록 파일 불러오기
 
+클래스 다이어그램 : https://app.diagrams.net/?src=about#Hchaewoowon%2FFinal-Exam-JAVA-%2Fmain%2Fdrawio#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
+
 ### 3.3 절차 설명
 1. 작업 추가 : 사용자는 작업을 입력하여 목록에 추가합니다.
 2. 작업 삭제 : 작업 번호를 입력하여 목록에서 삭제합니다.
